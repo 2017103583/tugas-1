@@ -1,0 +1,16 @@
+
+#elemen {
+	position : relative;
+	left: 50px;
+}
+a {
+	position : relative;
+	top :-15px;
+	font-family: Comic sans MS;
+}
+.font {
+	font-family : Comic Sans MS;
+}
+td {
+	font-family: Comic sans MS;
+} 
